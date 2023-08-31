@@ -66,3 +66,6 @@ for(let[key,value] of map1.entries())
 
 map1.clear();
 console.log(map1);
+
+
+// WeekMap is similar to Map  but only contain Object as key
