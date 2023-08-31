@@ -69,3 +69,4 @@ console.log(map1);
 
 
 // WeekMap is similar to Map  but only contain Object as key
+// WeekMap is not iterable
